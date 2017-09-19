@@ -6,5 +6,6 @@ https://kodaktor.ru/g/dmp13092017
 выполняйте задание в кодакторе (видеоролик будет добавлен чуть позже)
 
 Ответ на задание 1: https://kodaktor.ru/j/myjson_de6d5
+
 Ответ на задание 2: https://kodaktor.ru/j/myjson_967c1
 
